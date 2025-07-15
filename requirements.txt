@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pandas
+matplotlib
+torch
+pytorch_forecasting
+fpdf
+joblib
